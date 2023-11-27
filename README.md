@@ -28,9 +28,9 @@
 </div>
 <br> 
 
-<div style="display: inline_block" align="center">
+<!-- <div style="display: inline_block" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leoozito&theme=dracula&row=1&no-bg=true&column=5&margin-w=15" />
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=80&section=footer"/>  
 
