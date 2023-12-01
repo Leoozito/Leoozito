@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+Me+chamo+Leonardo+Nogueira;Desenvolvedor+Full+Stack+;Seja+Bem+Vindo+ao+meu+perfil+!+:%29)](https://git.io/typing-svg)
+<div style="display: inline_block" align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+Me+chamo+Leonardo+Nogueira;Desenvolvedor+Full+Stack+;Seja+Bem+Vindo+ao+meu+perfil+!+:%29)](https://git.io/typing-svg) 
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
