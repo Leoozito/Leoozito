@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=80&section=header"/>
 
 <div style="display: inline_block" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+Me+chamo+Leonardo+Nogueira;Desenvolvedor+Full+Stack+;Seja+Bem+Vindo+ao+meu+perfil+!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=36&center=true&vCenter=true&width=1000&lines=OLÁ,+Me+chamo+Leonardo+Nogueira;Desenvolvedor+Full+Stack+;Seja+bem+vindo+ao+meu+perfil+!+:%29)](https://git.io/typing-svg) 
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +30,7 @@
   <a href = "mailto:leonardonogueira616@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-nogueira-899789235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br> 
+<!-- <br> --> 
 
 <!-- <div style="display: inline_block" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leoozito&theme=dracula&row=1&no-bg=true&column=5&margin-w=15" />
