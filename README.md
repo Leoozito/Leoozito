@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=70&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=34&center=true&vCenter=true&width=1000&lines=OLÁ,+Me+chamo+Leonardo+Nogueira;Seja+bem+vindo+ao+meu+perfil+!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=34&center=true&vCenter=true&width=1000&duration=2000&pause=4000&lines=Hey,+I'm+Leo;Welcome+to+my+profile+!)](https://git.io/typing-svg) 
 
 <div style="display: inline_block" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
@@ -17,7 +17,7 @@
   <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="34" height="34"/>
   <img align="center" alt="Red-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Red-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
   <img align="center" alt="Red-django" height="60" width="70" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor"> 
 </div><br> 
 
