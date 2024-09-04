@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4ade80&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Rubik+Mono+One&color=4ade80&size=30&center=true&vCenter=true&width=1000&duration=2000&pause=4000&lines=Hey,+I'm+Leo;Welcome+to+my+profile+!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Schoolbell&color=4ade80&size=42&center=true&vCenter=true&width=1000&duration=2000&pause=4000&lines=Hey,+I'm+Leo;Welcome+to+my+profile+!)](https://git.io/typing-svg) 
 
 <div style="display: inline_block" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
