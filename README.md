@@ -22,7 +22,7 @@
 </div><br> 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leoozito&show_icons=true&count_private=true&hide_border=true&title_color=f9fafb&icon_color=22d3ee&text_color=fef3c7&bg_color=0d1117" alt="Leonardo Nogueira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leoozito&show_icons=true&count_private=true&hide_border=true&title_color=ff8904&icon_color=ff8904&text_color=34d399&bg_color=0d1117&include_all_commits=true" alt="Leonardo Nogueira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoozito&layout=compact&hide_border=true&title_color=f9fafb&text_color=fef3c7&bg_color=0d1117" />
 </div>
 
