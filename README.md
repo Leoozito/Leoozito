@@ -5,21 +5,11 @@
 <div style="display: inline_block" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 </div>
+<br> 
 
-<div style="display: inline_block" align="center">
-  <!--<img align="center" alt="logo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-->
-  <img align="center" alt="logo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Red-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="34" height="34"/>
-  <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Red-django" height="60" width="70" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor"> 
-  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-</div><br> 
+[![My Skills](https://skillicons.dev/icons?i=csharp,js,ts,python,go,django,dotnet,react,nextjs,postgresql,supabase,git,docker,figma)](https://skillicons.dev)
+
+<br> 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-xi-five-65.vercel.app/api?username=Leoozito&show_icons=true&count_private=true&hide_border=true&title_color=ff8904&icon_color=ff8904&text_color=34d399&bg_color=0d1117&include_all_commits=true" alt="Leonardo Nogueira github stats" /> 
