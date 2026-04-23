@@ -7,7 +7,7 @@
 </div>
 <br> 
 
-[![My Skills](https://skillicons.dev/icons?i=csharp,js,ts,python,go,django,dotnet,react,nextjs,postgresql,supabase,git,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,python,go,django,dotnet,react,nextjs,postgresql,supabase,git,docker,figma)](https://skillicons.dev)
 
 <br> 
 
