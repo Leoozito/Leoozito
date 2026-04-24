@@ -16,13 +16,13 @@
 <br> 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-xi-five-65.vercel.app/api?username=Leoozito&show_icons=true&count_private=true&hide_border=true&title_color=ff8904&icon_color=ff8904&text_color=34d399&bg_color=0d1117&include_all_commits=true" alt="Leonardo Nogueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoozito&layout=compact&hide_border=true&title_color=f9fafb&text_color=fef3c7&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-xi-five-65.vercel.app/api?username=iamleozito&show_icons=true&count_private=true&hide_border=true&title_color=ff8904&icon_color=ff8904&text_color=34d399&bg_color=0d1117&include_all_commits=true" alt="Leonardo Nogueira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamleozito&layout=compact&hide_border=true&title_color=f9fafb&text_color=fef3c7&bg_color=0d1117" />
 </div>
 
 <br> 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;"> 
-  <a href="https://www.instagram.com/_leeozito_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/iam.leozito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardonogueira616@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-nogueira-899789235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
